@@ -1,4 +1,5 @@
 FRAMEWORK: >= NET462
 NUGET
   remote: https://api.nuget.org/v3/index.json
+    FAKE (4.61.2)
     System.ValueTuple (4.3)
