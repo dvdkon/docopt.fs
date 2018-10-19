@@ -1,4 +1,6 @@
-﻿open Docopt
+﻿module Docopt.Tests
+
+open Docopt
 open Docopt.Arguments
 open System
 open System.Diagnostics
